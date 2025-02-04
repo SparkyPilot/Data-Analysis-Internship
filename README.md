@@ -22,7 +22,9 @@ Determined the percentage of restaurants offering online delivery.
 Compared the average ratings of restaurants with and without online delivery.
 
 
+
 **Level 2:**
+
 **Task 1:** Restaurant Ratings
 Analyzed the distribution of aggregate ratings and identified the most common rating range.
 Calculated the average number of votes received by restaurants.
